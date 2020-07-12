@@ -8,8 +8,6 @@
 My name is Murillo Welsi and I'm Quality Assurance Analyst passionate about DevOps, free software, music and triathlon.
 
 - 🌎 I'm from São Paulo / Brazil
-- 🎮 I like to play video games
-- 💜 I'm a Star Wars fan
 - 💻 **Languages:** Ruby, Javascript(learning)
-- 🔧 **Tools:** Visual Studio Code, GitHub
+- 🔧 **Tools:** Rspec, Capybara, Cucumber, Mocha, Chai, Postman
 - 🎓 **Academic:** Software Development
