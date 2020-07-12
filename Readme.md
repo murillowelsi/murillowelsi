@@ -10,6 +10,6 @@ My name is Murillo Welsi and I'm Quality Assurance Analyst passionate about DevO
 - 🌎 I'm from São Paulo / Brazil
 - 🎮 I like to play video games
 - 💜 I'm a Star Wars fan
-- 💻 **Languages:** HTML, CSS, JavaScript, Node.js and looking forward to learn even more!
+- 💻 **Languages:** Ruby, Javascript(learning)
 - 🔧 **Tools:** Visual Studio Code, GitHub
 - 🎓 **Academic:** Software Development
