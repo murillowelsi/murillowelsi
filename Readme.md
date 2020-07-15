@@ -8,12 +8,13 @@
 I’m a QA Analyst with four years experience in software testing. I’ve worked in all levels of testing: System and API Integration (REST), UI (Desktop, Web and Mobile), Performance and Acceptance (UAT). I've implemented a functional software testing automation process at the companies I've worked at, using tools like Selenium Web Driver, Capybara, HTTParty, RSpec, REST Assured and also non-functional automation testing using JMeter. I have a software testing certification: **ISTQB - CTFL**.
 
 - :earth_americas: I'm from São Paulo / Brazil
+- :mortar_board: **Graduation:** Software Development - UNIP
 - :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
 - :computer: **Languages:** Ruby, Javascript, Python, Java.
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
-- :memo: **Frameworks and Methodologies:** Scrum, Kanban.
 - :hammer: **Other tools:** Jenkins, Docker, Git, Maven, Bundler and Composer.
-- :mortar_board: **My Articles:**
+- :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
+- :newspaper: **My Articles:**
 
   https://www.qaninja.io/declarative-pipelines-jenkins \
   https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html \
