@@ -13,9 +13,9 @@ I’m a QA Analyst with four years experience in software testing. I’ve worked
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
 - :memo: **Frameworks and Methodologies:** Scrum, Kanban.
 - :hammer: **Other tools:** Jenkins, Docker, Git, Maven, Bundler and Composer.
-- :mortar_board: **Articles:**
+- :mortar_board: **My Articles:**
 
-  https://www.qaninja.io/testando-uma-api-de-filmes-com-postman
-  https://www.qaninja.io/declarative-pipelines-jenkins
-  https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html
-  https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html
+  https://www.qaninja.io/declarative-pipelines-jenkins \
+  https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html \
+  https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html \
+  https://www.qaninja.io/testando-uma-api-de-filmes-com-postman 
