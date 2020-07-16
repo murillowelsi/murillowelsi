@@ -16,7 +16,7 @@ I’m a QA Analyst with four years experience in software testing. I’ve worked
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
 - :newspaper: **My Articles:**
 
-  https://www.qaninja.io/declarative-pipelines-jenkins \
+  https://blog.qaninja.io/declarative-pipelines-jenkins/ \
+  https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/ \
   https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html \
   https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html \
-  https://www.qaninja.io/testando-uma-api-de-filmes-com-postman 
