@@ -5,11 +5,11 @@
 
 ## About me: 
 
-I’m a QA Analyst with five years experience in software testing. 
+I’m a **QA Engineer** with five years experience in software testing. 
 
-> I’ve worked in all levels of testing: System and API Integration (REST), UI (Desktop, Web and Mobile), Performance and Acceptance (UAT). I've implemented a functional software
-> testing automation process at the companies I've worked at, using tools like Selenium Web Driver, Capybara, HTTParty, RSpec, REST Assured and also non-functional automation
-> testing using JMeter. 
+> I’ve worked in all levels of testing: **System and API Integration (REST)**, **UI (Desktop, Web and Mobile)**, **Performance and Acceptance (UAT)**. I've implemented a
+> functional software testing automation process at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
+> **HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
 
 Software testing certified **ISTQB - CTFL**.
 
@@ -19,9 +19,9 @@ Software testing certified **ISTQB - CTFL**.
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
 - :hammer: **Other tools:** Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
-- :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (PT-br).
+- :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br).
 - :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
-- :newspaper: **My Articles:**
+- :newspaper: **My Articles:** (pt-br)
 
   https://blog.qaninja.io/declarative-pipelines-jenkins/ \
   https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/ \
