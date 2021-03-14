@@ -16,9 +16,9 @@ I've implemented functional, automation tests at the companies I've worked at, u
 **HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
 
 - :mortar_board: **Graduation:** Software Development - UNIP
-- :computer: **Languages:** Ruby, Javascript, Python, Java.
-- :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
-- :hammer: **Other tools:** Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
+- :computer: **Languages:** Javascript, Ruby, Python, Java.
+- :wrench: **Tools:** Cypress, Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
+- :hammer: **Other tools:** AWS, Azure Devops, Gitlab, Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
 - :computer: **Open source projects:** [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br).
 - :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
