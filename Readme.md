@@ -5,13 +5,13 @@
 
 ## About me: 
 
-I’m a **QA Engineer** with five years experience in software testing. 
+I’m a **QA Engineer** with five years experience in software testing.  
+Certified Tester - **ISTQB - CTFL**.
 
-> I’ve worked in all levels of testing: **System and API Integration (REST)**, **UI (Desktop, Web and Mobile)**, **Performance and Acceptance (UAT)**. I've implemented a
-> functional software testing automation process at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
-> **HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
+I’ve worked in all levels of testing: **System and API Integration (REST)**, **UI (Desktop, Web and Mobile)**, **Performance and Acceptance (UAT)**. 
 
-Software testing certified **ISTQB - CTFL**.
+I've implemented functional, automation tests at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
+**HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
 
 - :earth_americas: I'm from Campinas - São Paulo, Brazil | Living in Porto, Portugal
 - :mortar_board: **Graduation:** Software Development - UNIP
