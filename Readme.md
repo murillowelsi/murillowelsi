@@ -12,7 +12,7 @@ Certified Tester - **ISTQB - CTFL**.
 
 I’ve worked in all levels of testing: **System and API Integration (REST)**, **UI (Desktop, Web and Mobile)**, **Performance and Acceptance (UAT)**. 
 
-I've implemented functional, automation tests at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
+I've implemented functional and automated tests at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
 **HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
 
 - :mortar_board: **Graduation:** Software Development - UNIP
