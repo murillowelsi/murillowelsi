@@ -21,9 +21,10 @@ I've implemented functional, automation tests at the companies I've worked at, u
 - :hammer: **Other tools:** AWS, Azure Devops, Gitlab, Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
 - :computer: **Open source projects:** [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br).
-- :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
 - :newspaper: **My Articles (pt-br):** 
   - https://blog.qaninja.io/declarative-pipelines-jenkins/
   - https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/
   - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html
   - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html 
+
+- :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
