@@ -5,6 +5,8 @@
 
 ## About me: 
 
+:earth_americas: From Campinas - São Paulo, Brazil | Living in Porto, Portugal  
+
 I’m a **QA Engineer** with five years experience in software testing.  
 Certified Tester - **ISTQB - CTFL**.
 
@@ -13,7 +15,6 @@ I’ve worked in all levels of testing: **System and API Integration (REST)**, *
 I've implemented functional, automation tests at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
 **HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**. 
 
-- :earth_americas: I'm from Campinas - São Paulo, Brazil | Living in Porto, Portugal
 - :mortar_board: **Graduation:** Software Development - UNIP
 - :computer: **Languages:** Ruby, Javascript, Python, Java.
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
