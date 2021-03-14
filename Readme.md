@@ -19,7 +19,7 @@ Software testing certified **ISTQB - CTFL**.
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
 - :hammer: **Other tools:** Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
-- :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br).
+- :computer: **Open source projects:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br).
 - :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
 - :newspaper: **My Articles:** (pt-br)
 
