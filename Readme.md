@@ -5,16 +5,22 @@
 
 ## About me: 
 
-I’m a QA Analyst with four years experience in software testing. I’ve worked in all levels of testing: System and API Integration (REST), UI (Desktop, Web and Mobile), Performance and Acceptance (UAT). I've implemented a functional software testing automation process at the companies I've worked at, using tools like Selenium Web Driver, Capybara, HTTParty, RSpec, REST Assured and also non-functional automation testing using JMeter. I have a software testing certification: **ISTQB - CTFL**.
+I’m a QA Analyst with five years experience in software testing. 
+
+> I’ve worked in all levels of testing: System and API Integration (REST), UI (Desktop, Web and Mobile), Performance and Acceptance (UAT). I've implemented a functional software
+> testing automation process at the companies I've worked at, using tools like Selenium Web Driver, Capybara, HTTParty, RSpec, REST Assured and also non-functional automation
+> testing using JMeter. 
+
+Software testing certified **ISTQB - CTFL**.
 
 - :earth_americas: I'm from Campinas - São Paulo, Brazil | Living in Porto, Portugal
 - :mortar_board: **Graduation:** Software Development - UNIP
-- :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
 - :computer: **Languages:** Ruby, Javascript, Python, Java.
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
 - :hammer: **Other tools:** Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
 - :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (PT-br).
+- :headphones: **Hobbies:** Music and Triathlon :swimmer::bicyclist::runner:
 - :newspaper: **My Articles:**
 
   https://blog.qaninja.io/declarative-pipelines-jenkins/ \
