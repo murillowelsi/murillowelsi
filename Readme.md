@@ -14,7 +14,7 @@ I’m a QA Analyst with four years experience in software testing. I’ve worked
 - :wrench: **Tools:** Selenium WebDriver, JUnit, Rest-Assured, Appium, Robot Framework, RSpec, HTTParty, Capybara, Cucumber, Postman, JMeter, Jira, Gitlab, Mocha, Chai HTTP.
 - :hammer: **Other tools:** Charles Proxy, Jenkins, Docker, Git, Maven, Bundler and Composer.
 - :bookmark_tabs: **Frameworks and Methodologies:** Scrum, Kanban.
-- :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Translation of Cypress documentation to PT-BR
+- :computer: **Open source projects that I contribute:** Cypress Docs(https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation to PT-BR
 - :newspaper: **My Articles:**
 
   https://blog.qaninja.io/declarative-pipelines-jenkins/ \
