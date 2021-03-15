@@ -1,7 +1,8 @@
-# Murillo Welsi 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/murillowelsi)](https://github.com/murillowelsi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillowelsi)](https://www.linkedin.com/in/murillowelsi)
 [![Medium Badge](https://img.shields.io/badge/-@murillo.welsi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@murillo.welsi)](https://medium.com/@murillo.welsi)
+
+# Hello, folks! I'm Murillo Welsi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## About me: 
 
