@@ -5,7 +5,7 @@
 
 ## About me: 
 
-:earth_americas: From Campinas - São Paulo, Brazil | Living in Porto, Portugal  
+:earth_americas: From Campinas - São Paulo, Brazil :brazil: | Living in Porto, Portugal :portugal: 
 
 I’m a **QA Engineer** with five years experience in software testing.  
 Certified Tester - **ISTQB - CTFL**.
