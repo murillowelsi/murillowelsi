@@ -51,8 +51,6 @@ const skills = {
   challenge: "Creating an API from scratch using Js"
 }
 
-const me = Object.create(skills);
-
 function printIntroduction() {
   console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`)
   console.log(`I have coding skills with ${skills.code} and my favorite testing tools are ${skills.testingTools.javascript}`);
