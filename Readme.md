@@ -20,43 +20,45 @@ I've implemented functional and automated tests at the companies I've worked at,
 
 ```JS
 const skills = {
+  name: "Murillo Welsi",
+  specialty: "Quality Assurance Engineer",
   code: [
-    Javascript,
-    Ruby,
-    Python,
-    Java
+    "Javascript", "Ruby", "Python", "Java"
   ],
-  testingTools: [
-    Cypress,
-    Mocha,
-    Chai,
-    Rspec,
-    Httparty,
-    RestAssured,
-    JUnit,
-    Capybara,
-    Cucumber,
-    RobotFramework,
-  ],
-  devOpsTools: [
-    AWS,
-    Jenkins,
-    AzureDevOps,
-    Docker,
-    Git,
-    Gitlab,
-    CharlesProxy
-  ],
-  hobbies: {
-    music: "Guitar",
-    triathlon: [
-      "Swim", 
-      "Bike", 
-      "Run"
+  testingTools: {
+    javascript: [
+      "Cypress", "Mocha", "Chai", "Axios"
+    ],
+    ruby: [
+      "Rspec", "Httparty", "Capybara"
+    ],
+    python: [
+      "Robot Framework"
+    ],
+    java: [
+      "RestAssured", "JUnit"
+    ],
+    performance: [
+      "Jmeter, BlazeMeter"
+    ],
+    devOpsTools: [
+      "Aws", "Jenkins", "AzureDevOps", "Docker", "Git", "Gitlab", "CharlesProxy"
     ]
   },
+  hobbies: [
+    "Guitar", "Swim", "Bike", "Run"
+  ],
   challenge: "Creating an API from scratch using Js"
 }
+
+const me = Object.create(skills);
+
+function printIntroduction() {
+  console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`)
+  console.log(`I have coding skills with ${skills.code} and my favorite testing tools are ${skills.testingTools.javascript}`);
+}
+
+printIntroduction();
 ```
 
 ##### **Open source projects:**
