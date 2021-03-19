@@ -18,10 +18,10 @@ I've implemented functional and automated tests at the companies I've worked at,
 
 ##### **Tools**
 
-```javascript
+```JS
 const skills = {
   code: [
-    javascript,
+    Javascript,
     Ruby,
     Python,
     Java
@@ -68,5 +68,4 @@ const skills = {
   - https://blog.qaninja.io/declarative-pipelines-jenkins/
   - https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/
   - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html
-  - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html 
-
+  - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html
