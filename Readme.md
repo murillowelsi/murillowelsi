@@ -32,8 +32,9 @@ I've implemented functional and automated tests at the companies I've worked at,
 
 <p align="center">
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/c1201af2dfe8c62cf10ebc22331ba499ba7ebeff/assets/linux-tux.svg" width="40" />
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/c1201af2dfe8c62cf10ebc22331ba499ba7ebeff/assets/python.svg" width="40" height="40" />
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/c1201af2dfe8c62cf10ebc22331ba499ba7ebeff/assets/bitbucket.svg" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/c1201af2dfe8c62cf10ebc22331ba499ba7ebeff/assets/git.svg" width="70" height="40" />	
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/c1201af2dfe8c62cf10ebc22331ba499ba7ebeff/assets/aws.svg" width="60" height="40" />
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/7060180e9713b74fd171f80de3261e5940535561/assets/python.svg" width="40" height="40" />
+	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/7060180e9713b74fd171f80de3261e5940535561/assets/bitbucket.svg" height="40" />
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/7060180e9713b74fd171f80de3261e5940535561/assets/git.svg" width="70" height="40" />	
+	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/murillowelsi/murillowelsi/7060180e9713b74fd171f80de3261e5940535561/assets/aws.svg" width="60" height="40" />
+  <img title="AWS" alt="AWS" src="/assets/aws.svg" width="60" height="40" />
 </p>
