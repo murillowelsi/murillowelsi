@@ -33,12 +33,12 @@ const skills = {
   },
   hobbies: ["Guitar", "Swim", "Bike", "Run"],
   challenge: "Creating an API from scratch using Js"
-}
+};
 
 function printIntroduction(name) {
   console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`)
   console.log(`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`);
-}
+};
 
 printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 ```
