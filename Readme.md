@@ -22,32 +22,16 @@ I've implemented functional and automated tests at the companies I've worked at,
 const skills = {
   name: name,
   specialty: "Quality Assurance Engineer",
-  code: [
-    "Javascript", "Ruby", "Python", "Java"
-  ],
+  code: ["Javascript", "Ruby", "Python", "Java"],
   testingTools: {
-    javascript: [
-      "Cypress", "Mocha", "Chai", "Axios"
-    ],
-    ruby: [
-      "Rspec", "Httparty", "Capybara"
-    ],
-    python: [
-      "Robot Framework"
-    ],
-    java: [
-      "RestAssured", "JUnit"
-    ],
-    performance: [
-      "Jmeter, BlazeMeter"
-    ],
-    devOpsTools: [
-      "Aws", "Jenkins", "AzureDevOps", "Docker", "Git", "Gitlab", "CharlesProxy"
-    ]
+    javascript: ["Cypress", "Mocha", "Chai", "Axios"],
+    ruby: ["Rspec", "Httparty", "Capybara"],
+    python: ["Robot Framework"],
+    java: ["RestAssured", "JUnit"],
+    performance: ["Jmeter, BlazeMeter"],
+    devOpsTools: ["Aws", "Jenkins", "AzureDevOps", "Docker", "Git", "Gitlab", "CharlesProxy"]
   },
-  hobbies: [
-    "Guitar", "Swim", "Bike", "Run"
-  ],
+  hobbies: ["Guitar", "Swim", "Bike", "Run"],
   challenge: "Creating an API from scratch using Js"
 }
 
