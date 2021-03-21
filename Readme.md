@@ -53,7 +53,7 @@ const skills = {
 
 function printIntroduction() {
   console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`)
-  console.log(`I have coding skills with ${skills.code}, and I currently use ${skills.testingTools}`);
+  console.log(`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`);
 }
 
 printIntroduction();
