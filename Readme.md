@@ -49,7 +49,7 @@ printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 
 #### **Last Blog Posts (pt-br):**
 
-  - https://blog.qaninja.io/declarative-pipelines-jenkins/
-  - https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/
-  - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html
-  - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html
+- [Declarative Pipelines - Jenkins](https://blog.qaninja.io/declarative-pipelines-jenkins/)
+- [Testando uma API de filmes com Postman](https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/)
+- [Mobile Testing - Robot Frameworok (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
+- [Mobile Testing - Robot Frameworok (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
