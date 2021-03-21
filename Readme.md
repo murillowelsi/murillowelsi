@@ -16,7 +16,7 @@ I've implemented functional and automated tests at the companies I've worked at,
 
 - :mortar_board: **Graduation:** Software Development
 
-##### **Tools**
+### **Tools**
 
 ```javascript
 const skills = {
@@ -43,12 +43,12 @@ function printIntroduction(name, specialty) {
 printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 ```
 
-##### **Open source projects:**
+#### **Open source projects:**
 
- - [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
-
+- [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
 
 ##### **Last Blog Posts (pt-br):**
+
   - https://blog.qaninja.io/declarative-pipelines-jenkins/
   - https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/
   - https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html
