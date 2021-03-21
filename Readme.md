@@ -21,7 +21,7 @@ I've implemented functional and automated tests at the companies I've worked at,
 ```javascript
 const skills = {
   name: name,
-  specialty: "Quality Assurance Engineer",
+  specialty: specialty,
   code: ["Javascript", "Ruby", "Python", "Java"],
   testingTools: {
     javascript: ["Cypress", "Mocha", "Chai", "Axios"],
@@ -40,7 +40,7 @@ function printIntroduction(name) {
   console.log(`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`);
 }
 
-printIntroduction("Murillo Welsi");
+printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 ```
 
 ##### **Open source projects:**
