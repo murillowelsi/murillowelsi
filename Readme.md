@@ -18,7 +18,7 @@ I've implemented functional and automated tests at the companies I've worked at,
 
 ##### **Tools**
 
-```JS
+```javascript
 const skills = {
   name: name,
   specialty: "Quality Assurance Engineer",
