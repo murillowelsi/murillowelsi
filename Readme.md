@@ -47,7 +47,7 @@ printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 
 - [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
 
-##### **Last Blog Posts (pt-br):**
+#### **Last Blog Posts (pt-br):**
 
   - https://blog.qaninja.io/declarative-pipelines-jenkins/
   - https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/
