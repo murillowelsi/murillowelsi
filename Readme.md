@@ -24,7 +24,7 @@ const me = {
   specialty: specialty,
   code: ["Javascript", "Ruby", "Python", "Java"],
   testingTools: {
-    javascript: ["Cypress", "Mocha", "Chai", "Axios"],
+    javascript: ["Jest", "Axios", "Cypress", "Mocha", "Chai"],
     ruby: ["Rspec", "Httparty", "Capybara"],
     python: ["Robot Framework"],
     java: ["RestAssured", "JUnit"],
@@ -49,6 +49,8 @@ printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 
 #### **Last Blog Posts (pt-br):**
 
+- [API Testing with Cypress: Part 1 - Setup](https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe)
+- [API Testing with Cypress: Part 2 - Creating your tests](https://dev.to/murillowelsi/api-testing-with-cypress-part-2-creating-your-tests-270i)
 - [Declarative Pipelines - Jenkins](https://blog.qaninja.io/declarative-pipelines-jenkins/)
 - [Testando uma API de filmes com Postman](https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/)
 - [Mobile Testing - Robot Frameworok (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
