@@ -6,41 +6,39 @@
 
 From Brazil :brazil: | Living in Portugal :portugal:
 
-I’m a **QA Engineer** with five years experience in software testing.  
-Certified Tester - **ISTQB - CTFL**.
-
-I’ve worked in all levels of testing: **System and API Integration (REST)**, **UI (Desktop, Web and Mobile)**, **Performance and Acceptance (UAT)**.
-
-I've implemented functional and automated tests at the companies I've worked at, using tools like **Cypress**, **Mocha**, **Chai**, **Selenium Web Driver**, **Capybara**,
-**HTTParty**, **RSpec**, **Cucumber**, **REST Assured** and also non-functional automation testing using **JMeter**.
-
+- 🔭 I’m currently working at COCUS PT as a **QA Engineer**
 - :mortar_board: **Graduation:** Software Development
+- ⚡ Certified Tester - **ISTQB - CTFL**
+- 📚 You can read my posts on [Dev.to](https://dev.to/murillowelsi)
+- 💬 Ask me about test automation and software quality
+- 📫 How to reach me: [e-mail](murillo.welsi@gmail.com)
 
 ### **Tools**
 
 ```javascript
 const me = {
-  name: "Murillo Welsi",
-  specialty: specialty,
-  code: ["Javascript", "Ruby", "Python", "Java"],
-  testingTools: {
-    javascript: ["Jest", "Axios", "Cypress", "Mocha", "Chai"],
-    ruby: ["Rspec", "Httparty", "Capybara"],
-    python: ["Robot Framework"],
-    java: ["RestAssured", "JUnit"],
-    performance: ["Jmeter, BlazeMeter"],
-    devOpsTools: ["Aws", "Jenkins", "AzureDevOps", "Docker", "Git", "Gitlab", "CharlesProxy"]
-  },
-  hobbies: ["Guitar", "Swim", "Bike", "Run"],
-  challenge: "Creating an API from scratch using Js"
+	name: 'Murillo Welsi',
+	specialty: specialty,
+	code: ['Javascript', 'Ruby', 'Python', 'Java'],
+	testingTools: {
+		javascript: ['Jest', 'Axios', 'Cypress', 'Mocha', 'Chai'],
+		ruby: ['Rspec', 'Httparty', 'Capybara'],
+		python: ['Robot Framework'],
+		java: ['RestAssured', 'JUnit'],
+		performance: ['Jmeter, BlazeMeter'],
+		devOpsTools: ['Aws', 'Jenkins', 'AzureDevOps', 'Docker', 'Git', 'Gitlab'],
+	},
+	hobbies: ['Guitar', 'Swim', 'Bike', 'Run']
 };
 
 function printIntroduction(name, specialty) {
-  console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`)
-  console.log(`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`);
-};
+	console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`);
+	console.log(
+		`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`
+	);
+}
 
-printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
+printIntroduction('Murillo Welsi', 'Quality Assurance Engineer');
 ```
 
 #### **Open source projects:**
