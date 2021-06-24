@@ -32,9 +32,9 @@ const me = {
 
 function printIntroduction(name, role) {
   console.log(`
-    My name is ${name}. Am I'm ${role}, focused in ${me.specialty}.
-    I have coding skills with ${me.code}, currently working with ${me.testingTools.javascript}. 
-    On my free time, I like to ${me.hobbies}
+    My name is ${name}. I'm ${role}, focused in ${me.specialty}.
+    I have coding skills with ${me.code}, currently working with 
+    ${me.testingTools.javascript}. On my free time, I like to ${me.hobbies}
   `);
 }
 
