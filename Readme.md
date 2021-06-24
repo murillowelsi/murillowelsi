@@ -17,28 +17,28 @@ From Brazil :brazil: | Living in Portugal :portugal:
 
 ```javascript
 const me = {
-	name: 'Murillo Welsi',
-	specialty: specialty,
-	code: ['Javascript', 'Ruby', 'Python', 'Java'],
-	testingTools: {
-		javascript: ['Jest', 'Axios', 'Cypress', 'Mocha', 'Chai'],
-		ruby: ['Rspec', 'Httparty', 'Capybara'],
-		python: ['Robot Framework'],
-		java: ['RestAssured', 'JUnit'],
-		performance: ['Jmeter, BlazeMeter'],
-		devOpsTools: ['Aws', 'Jenkins', 'AzureDevOps', 'Docker', 'Git', 'Gitlab'],
-	},
-	hobbies: ['Guitar', 'Swim', 'Bike', 'Run']
+  specialty: "API Testing",
+  code: ["Javascript", "Ruby", "Python", "Java"],
+  testingTools: {
+    javascript: ["Jest", "Axios", "Cypress", "Mocha", "Chai"],
+    ruby: ["Rspec", "Httparty", "Capybara"],
+    python: ["Robot Framework"],
+    java: ["RestAssured", "JUnit"],
+    performance: ["Jmeter, BlazeMeter"],
+    devOpsTools: ["Aws", "Jenkins", "AzureDevOps", "Docker", "Git"],
+  },
+  hobbies: ["Guitar", "Swim", "Bike", "Run"],
 };
 
-function printIntroduction(name, specialty) {
-	console.log(`My name is ${skills.name}. Am I'm ${skills.specialty}`);
-	console.log(
-		`I have coding skills with ${skills.code}, and I currently use tools like ${skills.testingTools}`
-	);
+function printIntroduction(name, role) {
+  console.log(`
+    My name is ${name}. Am I'm ${role}, focused in ${me.specialty}.
+    I have coding skills with ${me.code}, currently working with ${me.testingTools.javascript}. 
+    On my free time, I like to ${me.hobbies}
+  `);
 }
 
-printIntroduction('Murillo Welsi', 'Quality Assurance Engineer');
+printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
 ```
 
 #### **Open source projects:**
