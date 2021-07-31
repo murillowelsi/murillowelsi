@@ -27,6 +27,7 @@ const me = {
     performance: ["Jmeter, BlazeMeter"],
     devOpsTools: ["Aws", "Jenkins", "AzureDevOps", "Docker", "Git"],
   },
+  learning: ["Kotlin"]
   hobbies: ["Guitar", "Swim", "Bike", "Run"],
 };
 
