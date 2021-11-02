@@ -6,7 +6,7 @@
 
 From Brazil :brazil: | Living in Portugal :portugal:
 
-- 🔭 I’m currently working at COCUS PT as a **QA Engineer**
+- 🔭 I’m currently working at 25Friday as a **QA Engineer**
 - :mortar_board: **Graduation:** Software Development
 - ⚡ Certified Tester - **ISTQB - CTFL**
 - 📚 You can read my posts on [Dev.to](https://dev.to/murillowelsi)
