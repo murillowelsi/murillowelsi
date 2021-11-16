@@ -13,35 +13,6 @@ From Brazil :brazil: | Living in Portugal :portugal:
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me: [e-mail](murillo.welsi@gmail.com)
 
-### **Tools**
-
-```javascript
-const me = {
-  specialty: "API Testing",
-  code: ["Javascript", "Ruby", "Python", "Java"],
-  testingTools: {
-    javascript: ["Jest", "Axios", "Cypress", "Mocha", "Chai"],
-    ruby: ["Rspec", "Httparty", "Capybara"],
-    python: ["Robot Framework"],
-    java: ["RestAssured", "JUnit"],
-    performance: ["Jmeter, BlazeMeter"],
-    devOpsTools: ["Aws", "Jenkins", "AzureDevOps", "Docker", "Git"],
-  },
-  learning: ["Kotlin"],
-  hobbies: ["Guitar", "Swim", "Bike", "Run"],
-};
-
-function printIntroduction(name, role) {
-  console.log(`
-    My name is ${name}. I'm ${role}, focused in ${me.specialty}.
-    I have coding skills with ${me.code}, currently working with 
-    ${me.testingTools.javascript}. On my free time, I like to ${me.hobbies}
-  `);
-}
-
-printIntroduction("Murillo Welsi", "Quality Assurance Engineer");
-```
-
 #### **Open source projects:**
 
 - [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
