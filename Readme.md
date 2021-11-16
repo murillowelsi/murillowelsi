@@ -1,6 +1,6 @@
 # Hello, folks! I'm Murillo Welsi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi) 
+[![Linkedin Badge](https://img.shields.io/badge/-Murillo%20Welsi-038bc1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi) 
 
 ## About me
 
@@ -25,3 +25,7 @@ From Brazil :brazil: | Living in Portugal :portugal:
 - [Testando uma API de filmes com Postman](https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/)
 - [Mobile Testing - Robot Frameworok (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
 - [Mobile Testing - Robot Frameworok (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
+
+### Stats
+
+![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murillowelsi&theme=vue)
