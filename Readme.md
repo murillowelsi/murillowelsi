@@ -28,4 +28,4 @@ From Brazil :brazil: | Living in Portugal :portugal:
 
 ### Stats
 
-![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murillowelsi&theme=vue)
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/murillowelsi?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
