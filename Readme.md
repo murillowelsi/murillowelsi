@@ -4,14 +4,14 @@
 
 ## About me
 
-From Brazil :brazil: | Living in Portugal :portugal:
+### From Brazil :brazil: | Living in Portugal :portugal:
 
 - 🔭 I’m currently working at 25Friday as a **QA Engineer**
 - :mortar_board: **Graduation:** Software Development
 - ⚡ Certified Tester - **ISTQB - CTFL**
-- 📚 You can read my posts on [Dev.to](https://dev.to/murillowelsi)
+- 📚 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
 - 💬 Ask me about test automation and software quality
-- 📫 How to reach me: [e-mail](murillo.welsi@gmail.com)
+- 📫 How to reach me: murillo.welsi@gmail.com
 
 #### **Open source projects:**
 
@@ -25,7 +25,5 @@ From Brazil :brazil: | Living in Portugal :portugal:
 - [Testando uma API de filmes com Postman](https://blog.qaninja.io/testando-uma-api-de-filmes-com-postman/)
 - [Mobile Testing - Robot Frameworok (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
 - [Mobile Testing - Robot Frameworok (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
-
-### Stats
 
 [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/murillowelsi?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
