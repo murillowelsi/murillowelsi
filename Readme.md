@@ -24,8 +24,8 @@
 - [API Testing with Cypress: Part 3 - CI pipeline on Github Actions](https://dev.to/murillowelsi/api-testing-with-cypress-part-3-ci-pipeline-on-github-actions-48np)
 - [Declarative Pipelines - Jenkins](https://medium.com/p/d84087963499)
 - [Testando uma API de filmes com Postman](https://medium.com/p/80f2efe8ccea)
-- [Mobile Testing - Robot Frameworok (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
-- [Mobile Testing - Robot Frameworok (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
+- [Mobile Testing - Robot Framework (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
+- [Mobile Testing - Robot Framework (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
 
 <div>
 
