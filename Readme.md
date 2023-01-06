@@ -8,7 +8,7 @@
 ## About me
 
 - :mortar_board: **Graduation:** Software Development
-- ⚡ Certified Tester - **ISTQB - CTFL**
+- ⚡ Certified Tester: **ISTQB - CTFL**
 - 📚 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me: murillo.welsi@gmail.com
