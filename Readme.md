@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillowelsi/)](https://www.linkedin.com/in/murillowelsi/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/murillowelsi/)](https://github.com/murillowelsi/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/murillowelsi/)](https://www.instagram.com/murillowelsi/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.welsi@gmail.com)](mailto:murillo.welsi@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillowelsi/)](https://www.linkedin.com/in/murillowelsi/) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCcvWZcmvDLNACrkV4Jr_9Rw?label=Youtube&style=flat&logo=youtube) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/murillowelsi/)](https://github.com/murillowelsi/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/murillowelsi/)](https://www.instagram.com/murillowelsi/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murillo.welsi@gmail.com)](mailto:murillo.welsi@gmail.com) 
 
 # Hello, folks! I'm Murillo Welsi
 
@@ -15,6 +15,7 @@
 
 #### **Open source projects:**
 
+- [Codeverso](https://www.youtube.com/@codeverso_) - Youtube Channel (pt-br)
 - [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
 
 #### **Last Blog Posts:**
