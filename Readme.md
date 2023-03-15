@@ -17,15 +17,15 @@
 
 - [Cypress Docs](https://github.com/pedrohyvo/cypress-docs-pt-br) - Cypress docs translation (pt-br)
 
-#### **Last Blog Posts (pt-br):**
+#### **Last Blog Posts:**
 
-- [API Testing with Cypress: Part 1 - Setup](https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe)
-- [API Testing with Cypress: Part 2 - Creating your tests](https://dev.to/murillowelsi/api-testing-with-cypress-part-2-creating-your-tests-270i)
-- [API Testing with Cypress: Part 3 - CI pipeline on Github Actions](https://dev.to/murillowelsi/api-testing-with-cypress-part-3-ci-pipeline-on-github-actions-48np)
-- [Declarative Pipelines - Jenkins](https://medium.com/p/d84087963499)
-- [Testando uma API de filmes com Postman](https://medium.com/p/80f2efe8ccea)
-- [Mobile Testing - Robot Framework (Parte 1)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
-- [Mobile Testing - Robot Framework (Parte 2)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
+- [API Testing with Cypress: Part 1 (en) - Setup](https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe)
+- [API Testing with Cypress: Part 2 (en) - Creating your tests](https://dev.to/murillowelsi/api-testing-with-cypress-part-2-creating-your-tests-270i)
+- [API Testing with Cypress: Part 3 (en) - CI pipeline on Github Actions](https://dev.to/murillowelsi/api-testing-with-cypress-part-3-ci-pipeline-on-github-actions-48np)
+- [Declarative Pipelines - Jenkins (pt-br)](https://medium.com/p/d84087963499)
+- [Testando uma API de filmes com Postman (pt-br)](https://medium.com/p/80f2efe8ccea)
+- [Mobile Testing - Robot Framework (Parte 1) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
+- [Mobile Testing - Robot Framework (Parte 2) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
 
 <div>
 
