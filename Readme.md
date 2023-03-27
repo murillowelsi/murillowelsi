@@ -4,12 +4,14 @@
 <div>
 
 # About Me
+  
 - 🧪 Certified Tester: **ISTQB - CTFL and CTAL-TA**
 - 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
 - 📬  How to reach me: murillo.welsi@gmail.com
 - 💬 Ask me about test automation and software quality
   
 # Tech Stack
+  
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 # Open source projects
@@ -26,9 +28,6 @@
 - [Testando uma API de filmes com Postman (pt-br)](https://medium.com/p/80f2efe8ccea)
 - [Mobile Testing - Robot Framework (Parte 1) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
 - [Mobile Testing - Robot Framework (Parte 2) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
-
-<div>
-<br>
   
 # GitHub Stats
   
@@ -52,4 +51,5 @@
 </table>
 
 # Contact Me
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_)
