@@ -8,7 +8,7 @@
 # About Me
   
 - 🧪 Certified Tester: **ISTQB - CTFL and CTAL-TA**
-- ☁️ AWS cloud practitioner and Azure AZ-900 certifications
+- ☁️ **AWS cloud practitioner** and **Azure AZ-900** certifications
 - 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
 - 📬  How to reach me: murillo.welsi@gmail.com
   
