@@ -1,3 +1,5 @@
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_)
+
 # Hello, folks! I'm Murillo Welsi 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer+at+25Friday;From+%F0%9F%87%A7%F0%9F%87%B7+|+Living+in+%F0%9F%87%B5%F0%9F%87%B9;)](https://git.io/typing-svg)
@@ -49,7 +51,3 @@
     </tr>
   </thead>
 </table>
-
-# Social Media
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_)
