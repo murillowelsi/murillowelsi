@@ -1,4 +1,4 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/)
 
 # Hello, folks! I'm Murillo Welsi 👋
 
@@ -7,8 +7,11 @@
 
 # About Me
   
-- 🧪 Certified Tester: **ISTQB - CTFL and CTAL-TA**
-- ☁️ **AWS cloud practitioner** and **Azure AZ-900** certifications
+- 🎖️ Certifications
+  - `CTFL` Certified Tester Foundation Level
+  - `CTAL-TA` Certified Tester Advanced Level - Test Analyst
+  - `AWS` Cloud practitioner
+  - `Azure` Fundamentals AZ-900 
 - 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
 - 📬  How to reach me: murillo.welsi@gmail.com
   
