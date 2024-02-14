@@ -10,6 +10,7 @@
 - 🎖️ Certifications
   - `CTFL` Certified Tester Foundation Level
   - `CTAL-TA` Certified Tester Advanced Level - Test Analyst
+  - `CTAL-TTA` Certified Tester Advanced Level - Technical Test Analyst
   - `AWS` Cloud practitioner
   - `Azure` Fundamentals AZ-900 
 - 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
