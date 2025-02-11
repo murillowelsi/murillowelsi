@@ -11,6 +11,7 @@
   - `CTFL` Certified Tester Foundation Level
   - `CTAL-TA` Certified Tester Advanced Level - Test Analyst
   - `CTAL-TTA` Certified Tester Advanced Level - Technical Test Analyst
+  - `CTAL-TAE` Certified Tester Advanced Level - Test Automation Engineer
   - `AWS` Cloud practitioner
   - `Azure` Fundamentals AZ-900 
 - 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
