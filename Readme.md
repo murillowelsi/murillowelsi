@@ -37,7 +37,9 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=murillowelsi&theme=dark&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
