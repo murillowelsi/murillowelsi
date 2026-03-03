@@ -16,10 +16,10 @@
   - `CTAL-TAE` Certified Tester Advanced Level - Test Automation Engineer
   - `AWS` Cloud practitioner
   - `Azure` Fundamentals AZ-900
-- 📖 You can read my posts at [Dev.to](https://dev.to/murillowelsi)
-- 📬 How to reach me: [murillo.welsi@gmail.com](mailto:murillo.welsi@gmail.com)
+- You can read my posts at [Dev.to](https://dev.to/murillowelsi)
+- How to reach me: [murillo.welsi@gmail.com](mailto:murillo.welsi@gmail.com)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-%23000000?style=for-the-badge&logo=Playwright&logoColor=white)](https://playwright.dev/)
@@ -34,14 +34,6 @@
 - [Testando uma API de filmes com Postman (pt-br)](https://medium.com/p/80f2efe8ccea)
 - [Mobile Testing - Robot Framework (Parte 1) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
 - [Mobile Testing - Robot Framework (Parte 2) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=murillowelsi&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Contributed Repo
 
