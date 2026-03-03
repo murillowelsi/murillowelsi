@@ -2,14 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer+at+25Friday;From+%F0%9F%87%A7%F0%9F%87%B7+|+Living+in+%F0%9F%87%B5%F0%9F%87%B9;)](https://git.io/typing-svg)
 
-## 🌐 Socials
+## Socials
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codeverso_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo.welsi@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillowelsi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murillowelsi/)
 
-## 💫 About Me
+## About Me
 
-- 🎖️ Certifications
+- Certifications
   - `CTFL` Certified Tester Foundation Level
+  - `CT-GenAI` Certified Tester Testing With Generative AI
   - `CTAL-TA` Certified Tester Advanced Level - Test Analyst
   - `CTAL-TTA` Certified Tester Advanced Level - Technical Test Analyst
   - `CTAL-TAE` Certified Tester Advanced Level - Test Automation Engineer
@@ -34,7 +35,7 @@
 - [Mobile Testing - Robot Framework (Parte 1) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
 - [Mobile Testing - Robot Framework (Parte 2) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -42,6 +43,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=murillowelsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=murillowelsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
