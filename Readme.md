@@ -27,4 +27,4 @@
 
 ## Blog Posts
 
-- [How I Built and Published My First Claude Code Plugin]([https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe](https://medium.com/@murillo-welsi/how-i-built-and-published-my-first-claude-code-plugin-f7a0642d66ad))
+- ![How I Built and Published My First Claude Code Plugin]([https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe](https://medium.com/@murillo-welsi/how-i-built-and-published-my-first-claude-code-plugin-f7a0642d66ad))
