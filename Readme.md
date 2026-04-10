@@ -27,14 +27,4 @@
 
 ## Blog Posts
 
-- [API Testing with Cypress: Part 1 (en) - Setup](https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe)
-- [API Testing with Cypress: Part 2 (en) - Creating your tests](https://dev.to/murillowelsi/api-testing-with-cypress-part-2-creating-your-tests-270i)
-- [API Testing with Cypress: Part 3 (en) - CI pipeline on Github Actions](https://dev.to/murillowelsi/api-testing-with-cypress-part-3-ci-pipeline-on-github-actions-48np)
-- [Declarative Pipelines - Jenkins (pt-br)](https://medium.com/p/d84087963499)
-- [Testando uma API de filmes com Postman (pt-br)](https://medium.com/p/80f2efe8ccea)
-- [Mobile Testing - Robot Framework (Parte 1) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep02.html)
-- [Mobile Testing - Robot Framework (Parte 2) (pt-br)](https://robotizandotestes.blogspot.com/2020/05/season-mobile-com-appium-ep03.html)
-
-### Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=murillowelsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [How I Built and Published My First Claude Code Plugin]([https://dev.to/murillowelsi/api-testing-with-cypress-part-1-5coe](https://medium.com/@murillo-welsi/how-i-built-and-published-my-first-claude-code-plugin-f7a0642d66ad))
