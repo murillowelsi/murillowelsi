@@ -2,18 +2,33 @@
 
 **QA Engineer · Test automation · AI-assisted testing**
 
-I'm a QA engineer at 25Friday, based in Porto, Portugal. I help teams catch problems before they become defects: reviewing user stories, designing tests and automating the checks that matter. Lately I've been exploring how AI tools like Claude Code fit into testing.
+- QA engineer at 25Friday, based in Porto, Portugal
+- I help teams catch problems before they become defects: reviewing user stories, designing tests and automating the checks that matter
+- Lately I've been exploring how AI tools like Claude Code fit into testing
 
 ## Things I build for fun
 
-- **[Fermata](https://murillowelsi.github.io/fermata/)**: a free music notation editor for Mac, Windows and the browser, with floating palettes, a shortcut for every command and MIDI keyboard input. Built with Rust and egui. Code: [murillowelsi/fermata](https://github.com/murillowelsi/fermata).
-- **[EZ Training Hub](https://edgarstraininghub.vercel.app)**: website, coach portal and installable app (PWA) for a personal trainer and their athletes. Built with React, TypeScript, Vite and Firebase. Code: [murillowelsi/edgarstraininghub](https://github.com/murillowelsi/edgarstraininghub).
-- **[mySZN](https://mysnz.vercel.app)**: a race season planner for triathletes and trail runners. It lists IRONMAN, 70.3, 5150, T100, Challenge and UTMB races with entry prices, price history and the nearest airport, and lets you save races to your own season.
+- **[Fermata](https://murillowelsi.github.io/fermata/)**
+  - Free music notation editor for Mac, Windows and the browser
+  - Floating palettes, a shortcut for every command and MIDI keyboard input
+  - Rust + egui · Code: [murillowelsi/fermata](https://github.com/murillowelsi/fermata)
+- **[EZ Training Hub](https://edgarstraininghub.vercel.app)**
+  - Website, coach portal and installable app (PWA) for a personal trainer and their athletes
+  - React, TypeScript, Vite and Firebase · Code: [murillowelsi/edgarstraininghub](https://github.com/murillowelsi/edgarstraininghub)
+- **[mySZN](https://mysnz.vercel.app)**
+  - Race season planner for triathletes and trail runners
+  - IRONMAN, 70.3, 5150, T100, Challenge and UTMB races with entry prices, price history and the nearest airport
+  - Save races to your own season
 
 ## Certifications
 
-- **ISTQB:** Certified Tester Foundation Level (CTFL), Testing with Generative AI (CT-GenAI), Advanced Level Test Analyst (CTAL-TA), Advanced Level Technical Test Analyst (CTAL-TTA), Advanced Level Test Automation Engineer (CTAL-TAE)
-- **AWS:** AWS Certified Cloud Practitioner
+- **ISTQB**
+  - Certified Tester Foundation Level (CTFL)
+  - Testing with Generative AI (CT-GenAI)
+  - Advanced Level Test Analyst (CTAL-TA)
+  - Advanced Level Technical Test Analyst (CTAL-TTA)
+  - Advanced Level Test Automation Engineer (CTAL-TAE)
+- **AWS:** Certified Cloud Practitioner
 - **Microsoft:** Azure Fundamentals (AZ-900)
 
 ## Stack
